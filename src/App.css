@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  padding: 2em;
+  height: 100vh;
+  display: flex; 
+  vertical-align: middle;
+  box-sizing: border-box;
+  color: #ffc007d9;
+  font-size:2.5em;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-image: url("../src/assets/space.jpeg");
+}
+
+
+.container h1{
+  margin: auto;
+}
